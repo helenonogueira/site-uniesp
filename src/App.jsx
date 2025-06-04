@@ -4,7 +4,7 @@ import Faculdade from './pages/Faculdade'
 import CustomNavbar from './components/CustomNavbar'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import { Container } from 'react-bootstrap'
-import DpoLgpd from './pages/Dpolgpd'
+import DpoLgpd from './pages/DpoLgpd'
 import Noticias from './pages/Noticias'
 import VisualizaNoticia from './pages/VisualizaNoticia'
 
