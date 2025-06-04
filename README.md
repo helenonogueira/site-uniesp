@@ -62,7 +62,8 @@ O objetivo foi criar um **site institucional moderno** para a faculdade **UNIESP
 
 ---
 
-**Observação:**  
-Certifique-se de manter o json-server rodando enquanto utiliza o frontend, pois ele fornece os dados necessários para o funcionamento do site.
+**⚠️ Observação:**
+Mantenha o json-server rodando enquanto utiliza o frontend, pois ele fornece os dados necessários para o funcionamento do site.
+
 
 ---
